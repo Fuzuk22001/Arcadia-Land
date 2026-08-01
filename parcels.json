@@ -15,8 +15,7 @@
   ],
 
   "parcels": [
-    {
-{ "label": "Perfect Square / Void", 
+{ "label": "Coda", 
       "region": "Coda", 
       "x": 19, 
       "y": 139, 
@@ -25,8 +24,7 @@
       "li": 351, 
       "price": 4495, 
       "status": "available" },
-    },
-{ "label": "Protected Sailing 51", 
+{ "label": "Vinula", 
   "region": "Vinula", 
   "x": 122, 
   "y": 130, 
@@ -35,7 +33,7 @@
   "li": 175, 
   "price": 4995, 
   "status": "available" },
-{ "label": "Beautiful Flat Green", 
+{ "label": "Glaisher", 
   "region": "Glaisher", 
   "x": 182, 
   "y": 149, 
@@ -45,6 +43,6 @@
   "price": 7995, 
   "status": 
   "available" },
-    { "label": "Sailable 1024", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995 , "status": "available" },
+    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995 , "status": "available" },
   ]
 }
