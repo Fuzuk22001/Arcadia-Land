@@ -1,0 +1,52 @@
+{
+  "store": "YEM Land",
+  "updated": "2026-08-01",
+  "refresh": 900,
+
+  "_comment": [
+    "This file is the single source of truth for every board.",
+    "refresh = seconds between board refreshes (minimum 300, enforced in-script).",
+    "status: omit it, or set 'available'. Set it to 'sold' to hide a parcel",
+    "from every board at once without deleting the record.",
+    "label: keep it short. Buttons truncate at 24 bytes including the 'N. ' prefix,",
+    "so roughly 20 characters of name is what shows.",
+    "x, y, z: the point inside the parcel you want the map to open at.",
+    "Stand on the spot in-world and read the coordinates off the location bar."
+  ],
+
+  "parcels": [
+    {
+      "label": "Bay Ridge",
+      "region": "Sansara Bay",
+      "x": 128,
+      "y": 64,
+      "z": 25,
+      "size": 1024,
+      "li": 351,
+      "price": 4500,
+      "status": "available"
+    },
+    {
+      "label": "Old Mill Road",
+      "region": "Heterocera",
+      "x": 96,
+      "y": 200,
+      "z": 42,
+      "size": 2048,
+      "li": 703,
+      "price": 8900,
+      "status": "available"
+    },
+    {
+      "label": "Corner Lot 3",
+      "region": "Nautilus City",
+      "x": 210,
+      "y": 18,
+      "z": 31,
+      "size": 512,
+      "li": 175,
+      "price": 2200,
+      "status": "sold"
+    }
+  ]
+}
