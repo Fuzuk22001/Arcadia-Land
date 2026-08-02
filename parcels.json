@@ -33,7 +33,7 @@
   "price": 7995, 
   "status": "available",
   "desc": "Perfect site for a luxurious home or store on protected roadside, on green grass. Can be completely flat for an easy build."},
-    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995, "status": "available", "desc": "Protected by a Linden water channel over the region edge, land can be terraformed to all water or part land / part water. " },
+    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995, "status": "available", "desc": "Protected by a Linden water channel over the region edge, land can be terraformed to all water or part land / part water" },
      { "label": "Imolarto", "region": "Imolarto", "x": 39, "y": 239, "z": 22, "size": 1024, "li": 351, "price": 12995, "status": "available", "desc": "Pure water parcel up against the void edge of the region for extra protection. Offered at a low low price!" },
     { "label": "Daikoku", "region": "Daikoku", "x": 206, "y": 122, "z": 24, "size": 3024, "li": 1038, "price": 14995, "status": "available", "desc": "Perfect plot for a luxurious home with a private beach and protected waterway access. Offered at a low low price!" },
     { "label": "Doesburg", "region": "Doesburg", "x": 206, "y": 237, "z": 25, "size": 1024, "li": 351, "price": 3995, "status": "available", "desc": "Ideal spot for a home or store on a lovely flat square of roadside, which is one long rez zone - truly unique!" }
