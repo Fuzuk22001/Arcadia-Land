@@ -39,6 +39,7 @@
     { "label": "Doesburg", "region": "Doesburg", "x": 206, "y": 237, "z": 25, "size": 1024, "li": 351, "price": 3995, "status": "available", "desc": "Ideal spot for a home or store on a lovely flat square of roadside, which is one long rez zone - truly unique!" },
     { "label": "Boscombe", "region": "Boscombe", "x": 165, "y": 95, "z": 44, "size": 4512, "li": 1549, "price": 19995, "status": "available", "desc": "Protected on all sides by Linden land, this is a rare opportunity to own a genuinely protected parcel - can be terraformed to near flat for an easy build." },
     { "label": "Dosojin", "region": "Dosojin", "x": 58, "y": 227, "z": 24, "size": 2048, "li": 703, "price": 19995, "status": "available", "desc": "Fantastic spot bordering protected Linden water for sailing all around the continent and beyond. Priced to sell!" },
-    { "label": "Aqua", "region": "Aqua", "x": 174, "y": 236, "z": 21, "size": 2048, "li": 703, "price": 9995, "status": "available", "desc": "The Color sims are a group of 30 sims, high populated and have rare Land With Restricted Access, and extreme terraform possible!" }
+    { "label": "Aqua", "region": "Aqua", "x": 174, "y": 236, "z": 21, "size": 2048, "li": 703, "price": 9995, "status": "available", "desc": "The Color sims are a group of 30 sims, high populated and have rare Land With Restricted Access, and extreme terraform possible!" },
+    { "label": "Mormo", "region": "Mormo", "x": 230, "y": 61, "z": 21, "size": 1024, "li": 351, "price": 7995, "status": "available", "desc": "This nice square water parcel is the perfect plot for a home, with the option of sailing away all around the continent and beyond." }
   ]
 }
