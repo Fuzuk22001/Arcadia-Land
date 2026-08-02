@@ -2,18 +2,6 @@
   "store": "Arcadia Land Sales",
   "updated": "2026-08-02",
   "refresh": 90,
-
-  "_comment": [
-    "This file is the single source of truth for every board.",
-    "refresh = seconds between board refreshes (minimum 300, enforced in-script).",
-    "status: omit it, or set 'available'. Set it to 'sold' to hide a parcel",
-    "from every board at once without deleting the record.",
-    "label: keep it short. Buttons truncate at 24 bytes including the 'N. ' prefix,",
-    "so roughly 20 characters of name is what shows.",
-    "x, y, z: the point inside the parcel you want the map to open at.",
-    "Stand on the spot in-world and read the coordinates off the location bar."
-  ],
-
   "parcels": [
 { "label": "Coda", 
       "region": "Coda", 
