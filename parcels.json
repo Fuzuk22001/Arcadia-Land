@@ -23,7 +23,8 @@
       "size": 1024, 
       "li": 351, 
       "price": 4495, 
-      "status": "available" },
+      "status": "available",
+      "desc": "Pick up a bargain square plot for a unique home up against the edge of the region and the void. Going cheap!"},
 { "label": "Vinula", 
   "region": "Vinula", 
   "x": 122, 
@@ -32,7 +33,8 @@
   "size": 512, 
   "li": 175, 
   "price": 4995, 
-  "status": "available" },
+  "status": "available",
+  "desc": ""},
 { "label": "Glaisher", 
   "region": "Glaisher", 
   "x": 182, 
@@ -41,11 +43,14 @@
   "size": 2560, 
   "li": 878, 
   "price": 7995, 
-  "status": 
-  "available" },
-    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995 , "status": "available" },
-     { "label": "Imolarto", "region": "Imolarto", "x": 39, "y": 239, "z": 22, "size": 1024, "li": 351, "price": 12995, "status": "available" },
-    { "label": "Daikoku", "region": "Daikoku", "x": 206, "y": 122, "z": 24, "size": 3024, "li": 1038, "price": 14995, "status": "available" }
+  "status": "available",
+  "desc": ""},
+    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995 , "status": "available",
+  "desc": "" },
+     { "label": "Imolarto", "region": "Imolarto", "x": 39, "y": 239, "z": 22, "size": 1024, "li": 351, "price": 12995, "status": "available",
+  "desc": "" },
+    { "label": "Daikoku", "region": "Daikoku", "x": 206, "y": 122, "z": 24, "size": 3024, "li": 1038, "price": 14995, "status": "available",
+  "desc": "" }
   ]
 }
 }
