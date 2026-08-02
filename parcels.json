@@ -43,6 +43,7 @@
   "price": 7995, 
   "status": 
   "available" },
-    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995 , "status": "available" }
+    { "label": "Dicycla", "region": "Dicycla", "x": 4, "y": 70, "z": 21, "size": 1024, "li": 351, "price": 7995 , "status": "available" },
+     { "label": "Imolarto", "region": "Imolarto", "x": 39, "y": 239, "z": 22, "size": 1024, "li": 351, "price": 12995, "status": "available" },
   ]
 }
