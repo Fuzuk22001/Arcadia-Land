@@ -37,6 +37,7 @@
      { "label": "Imolarto", "region": "Imolarto", "x": 39, "y": 239, "z": 22, "size": 1024, "li": 351, "price": 12995, "status": "available", "desc": "Pure water parcel up against the void edge of the region for extra protection. Offered at a low low price!" },
     { "label": "Daikoku", "region": "Daikoku", "x": 206, "y": 122, "z": 24, "size": 3024, "li": 1038, "price": 14995, "status": "available", "desc": "Perfect plot for a luxurious home with a private beach and protected waterway access. Offered at a low low price!" },
     { "label": "Doesburg", "region": "Doesburg", "x": 206, "y": 237, "z": 25, "size": 1024, "li": 351, "price": 3995, "status": "available", "desc": "Ideal spot for a home or store on a lovely flat square of roadside, which is one long rez zone - truly unique!" },
-    { "label": "Boscombe", "region": "Boscombe", "x": 165, "y": 95, "z": 44, "size": 4512, "li": 1549, "price": 19995, "status": "available", "desc": "Protected on all sides by Linden land, this is a rare opportunity to own a genuinely protected parcel - can be terraformed to near flat for an easy build." }
+    { "label": "Boscombe", "region": "Boscombe", "x": 165, "y": 95, "z": 44, "size": 4512, "li": 1549, "price": 19995, "status": "available", "desc": "Protected on all sides by Linden land, this is a rare opportunity to own a genuinely protected parcel - can be terraformed to near flat for an easy build." },
+    { "label": "Aqua", "region": "Aqua", "x": 174, "y": 236, "z": 21, "size": 2048, "li": 703, "price": 9995, "status": "available", "desc": "The Color sims are a group of 30 sims, high populated and have rare Land With Restricted Access, and extreme terraform possible!" }
   ]
 }
