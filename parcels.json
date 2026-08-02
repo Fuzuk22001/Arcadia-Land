@@ -42,6 +42,7 @@
     { "label": "Aqua", "region": "Aqua", "x": 174, "y": 236, "z": 21, "size": 2048, "li": 703, "price": 9995, "status": "available", "desc": "The Color sims are a group of 30 sims, high populated and have rare Land With Restricted Access, and extreme terraform possible!" },
     { "label": "Mormo", "region": "Mormo", "x": 230, "y": 61, "z": 21, "size": 1024, "li": 351, "price": 7995, "status": "available", "desc": "This nice square water parcel is the perfect plot for a home, with the option of sailing away all around the continent and beyond." },
     { "label": "Romeno", "region": "Romeno", "x": 97, "y": 186, "z": 6, "size": 5152, "li": 1768, "price": 24995, "status": "available", "desc": "Nice plot for a luxury home on the water with a channel that adjoins a protected waterway for sailing all around the continent and beyond." },
-    { "label": "Ivanova", "region": "Ivanova", "x": 166, "y": 86, "z": 77, "size": 65536, "li": 22500, "price": 129995, "status": "available", "desc": "Very rarely does an entire mainland region become available for sale! Be quick!" }
+    { "label": "Ivanova", "region": "Ivanova", "x": 166, "y": 86, "z": 77, "size": 65536, "li": 22500, "price": 129995, "status": "available", "desc": "Very rarely does an entire mainland region become available for sale! Be quick!" },
+    { "label": "Alloy", "region": "Alloy", "x": 25, "y": 60, "z": 42, "size": 7040, "li": 2416, "price": 24995, "status": "available", "desc": "7040m2 plot - could offer a development opportunity, would split into two large parcels or more for resale." }
   ]
 }
