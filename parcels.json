@@ -45,6 +45,7 @@
     { "label": "Ivanova", "region": "Ivanova", "x": 166, "y": 86, "z": 77, "size": 65536, "li": 22500, "price": 129995, "status": "available", "desc": "Very rarely does an entire mainland region become available for sale! Be quick!" },
     { "label": "Alloy", "region": "Alloy", "x": 25, "y": 60, "z": 42, "size": 7040, "li": 2416, "price": 24995, "status": "available", "desc": "7040m2 plot - could offer a development opportunity, would split into two large parcels or more for resale." },
     { "label": "Lancashire", "region": "Lancashire", "x": 232, "y": 21, "z": 41, "size": 1024, "li": 351, "price": 7995, "status": "available", "desc": "Ideal spot for your next home with the protection of Linden land on three of its four sides" },
-    { "label": "Erminea", "region": "Erminea", "x": 125, "y": 155, "z": 21, "size": 19168, "li": 6580, "price": 99995, "status": "available", "desc": "This parcel has protected waterway all along one edge so lends itself to being split into smaller parcels. Fantastic location for sailing" }
+    { "label": "Erminea", "region": "Erminea", "x": 125, "y": 155, "z": 21, "size": 19168, "li": 6580, "price": 99995, "status": "available", "desc": "This parcel has protected waterway all along one edge so lends itself to being split into smaller parcels. Fantastic location for sailing" },
+    { "label": "Vinula", "region": "Vinula", "x": 7, "y": 166, "z": 23, "size": 1024, "li": 351, "price": 8995, "status": "available", "desc": "Perfect square water parcel on protected channel for sailing all around the continent and beyond. Perfect plot of building a home on the water!" }
   ]
 }
